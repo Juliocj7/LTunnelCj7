@@ -23,7 +23,8 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20210829-125711_Termux](https://user-images.githubusercontent.com/81049859/131258893-e0e74988-ec7a-4157-8d90-01550bbfb8b7.png)
+![Screenshot_20220522-001842_Termux](https://user-images.githubusercontent.com/81049859/169680496-134f2393-b18c-4c94-bda2-e93680eaf79e.png)
+
 
 
 ## LTunnelCj7 :
