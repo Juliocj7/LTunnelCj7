@@ -13,7 +13,6 @@
 
 <p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="110"/> </p>
 
-
 <details>
 <summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ </summary>
 <br>
@@ -24,8 +23,6 @@
 
 ## Menú Principal :
 ![Screenshot_20220522-001842_Termux](https://user-images.githubusercontent.com/81049859/169680496-134f2393-b18c-4c94-bda2-e93680eaf79e.png)
-
-
 
 ## LTunnelCj7 :
 * Instala **LocalTunnel** en Termux correctamente y sin errores.
@@ -40,8 +37,9 @@
 https://github.com/Juliocj7/UtilsCj7
 ~~~
 
-* ` apt update && apt upgrade -y `
-
+```bash
+  yes|pkg update && pkg upgrade
+```
 * ` git clone https://github.com/Juliocj7/LTunnelCj7 `
 
 * ` cd LTunnelCj7 `
