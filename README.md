@@ -23,7 +23,7 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20221228-214518_Termux](https://user-images.githubusercontent.com/81049859/209894278-905a9677-06e1-417d-a5ff-b9d7f3a9ac19.png)
+![1000285777](https://github.com/Juliocj7/LTunnelCj7/assets/81049859/937d02ce-4fa6-4186-9d48-aaa10d0c33cc)
 
 ## LTunnelCj7 :
 * Instala **LocalTunnel** en Termux correctamente y sin errores.
